@@ -1,0 +1,16 @@
+{
+  "name": "mp-pack-base-plugin",
+  "version": "0.1.0",
+  "description": "builtin custom plugin for mp-pack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hz9527/mp-pack.git"
+  },
+  "keywords": ["resolvePkg", "resolveProjectConfig", "miniprogram", "小程序打包方案"],
+  "author": "hz9527",
+  "bugs": {
+    "url": "https://github.com/hz9527/mp-pack/issues"
+  },
+  "homepage": "https://github.com/hz9527/mp-pack#readme"
+}

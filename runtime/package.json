@@ -1,0 +1,19 @@
+{
+  "name": "mp-babel-runtime",
+  "version": "0.1.0",
+  "description": "babel runtime for miniprogram",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hz9527/mp-pack.git"
+  },
+  "keywords": ["babelRuntime", "miniprogram", "小程序打包方案"],
+  "author": "hz9527",
+  "bugs": {
+    "url": "https://github.com/hz9527/mp-pack/issues"
+  },
+  "homepage": "https://github.com/hz9527/mp-pack#readme",
+  "dependencies": {
+    "regenerator-runtime": "^0.13.2"
+  }
+}
