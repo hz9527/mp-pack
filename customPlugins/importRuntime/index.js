@@ -1,5 +1,5 @@
 const helperModelImports = require('@babel/helper-module-imports');
-const RuntimeSource = '@bdeefe/mp-babel-runtime';
+const RuntimeSource = 'mp-babel-runtime';
 const RuntimeMap = require(RuntimeSource + '/map');
 
 const wm = new WeakMap();
