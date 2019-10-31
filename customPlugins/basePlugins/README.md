@@ -2,7 +2,7 @@
 
 ```js
 // packConfig.js
-const { resolveNpm, projectReplace } = require('@bdeefe/mp-pack-base-plugins');
+const { resolveNpm, projectReplace } = require('mp-pack-base-plugins');
 
 // ...
 

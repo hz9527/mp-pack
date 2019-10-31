@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/hz9527/mp-pack.git"
   },
-  "keywords": ["rollup", "postcss", "miniprogram", "小程序打包方案"],
+  "keywords": [
+    "rollup",
+    "postcss",
+    "miniprogram",
+    "小程序打包方案"
+  ],
   "author": "hz9527",
   "license": "ISC",
   "bugs": {
