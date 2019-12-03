@@ -1,6 +1,6 @@
 # quick start
 
-> module packer for mini program
+> module packer for miniApp
 
 ```shell
 ├── src
